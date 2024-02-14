@@ -1,4 +1,4 @@
-name: Generate Feeds
+name: Random name
 
 on:
   push:
@@ -28,5 +28,3 @@ jobs:
           git add .
           git commit -m "Modified Feed"
           git push
-		
-			   
